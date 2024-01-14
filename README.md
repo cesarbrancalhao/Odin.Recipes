@@ -1,4 +1,6 @@
 # Recipes
-My first Odin Project using HTML, CSS and a little JS.
-<hr>
-<h3><a href="https://cesarbrancalhao.github.io/Odin.Recipes/">Check it live</a></h3>
+First Odin Project. Using HTML, CSS and a little JS.
+
+Check it [live](https://cesarbrancalhao.github.io/Odin.Recipes/).
+
+Main Odin repository: [Odin Project](https://github.com/cesarbrancalhao/OdinProject).
